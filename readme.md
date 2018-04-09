@@ -10,9 +10,9 @@
 - Lesson 8 :heavy_check_mark:
 - Lesson 9 :heavy_check_mark:
 - Lesson 10 :heavy_check_mark:
-- Lesson 11
-- Lesson 12
-- Lesson 13
+- Lesson 11 :heavy_check_mark:
+- Lesson 12 :heavy_check_mark:
+- Lesson 13 :heavy_check_mark:
 - Lesson 14
 - Lesson 15
 - Lesson 16
