@@ -1,1 +1,27 @@
 ## CSS Grid course by Wes Bos
+
+- Lesson 1 :heavy_check_mark: 
+- Lesson 2 :heavy_check_mark:
+- Lesson 3 :heavy_check_mark:
+- Lesson 4 :heavy_check_mark:
+- Lesson 5 :heavy_check_mark:
+- Lesson 6 :heavy_check_mark:
+- Lesson 7 :heavy_check_mark:
+- Lesson 8 :heavy_check_mark:
+- Lesson 9 :heavy_check_mark:
+- Lesson 10 :heavy_check_mark:
+- Lesson 11
+- Lesson 12
+- Lesson 13
+- Lesson 14
+- Lesson 15
+- Lesson 16
+- Lesson 17
+- Lesson 18
+- Lesson 19
+- Lesson 20
+- Lesson 21
+- Lesson 22
+- Lesson 23
+- Lesson 24
+- Lesson 25
