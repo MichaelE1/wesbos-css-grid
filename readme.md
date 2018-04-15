@@ -15,12 +15,12 @@
 - Lesson 13 :heavy_check_mark:
 - Lesson 14 :heavy_check_mark:
 - Lesson 15 :heavy_check_mark:
-- Lesson 16
-- Lesson 17
-- Lesson 18
-- Lesson 19
-- Lesson 20
-- Lesson 21
+- Lesson 16 :heavy_check_mark:
+- Lesson 17 :heavy_check_mark:
+- Lesson 18 :heavy_check_mark:
+- Lesson 19 :heavy_check_mark:
+- Lesson 20 :heavy_check_mark:
+- Lesson 21 :heavy_check_mark:
 - Lesson 22
 - Lesson 23
 - Lesson 24
