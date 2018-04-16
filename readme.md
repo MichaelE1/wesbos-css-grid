@@ -21,7 +21,7 @@
 - Lesson 19 :heavy_check_mark:
 - Lesson 20 :heavy_check_mark:
 - Lesson 21 :heavy_check_mark:
-- Lesson 22
-- Lesson 23
-- Lesson 24
+- Lesson 22 :heavy_check_mark:
+- Lesson 23 :heavy_check_mark:
+- Lesson 24 :heavy_check_mark:
 - Lesson 25
