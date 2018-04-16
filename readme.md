@@ -24,4 +24,6 @@
 - Lesson 22 :heavy_check_mark:
 - Lesson 23 :heavy_check_mark:
 - Lesson 24 :heavy_check_mark:
-- Lesson 25
+- Lesson 25 :heavy_check_mark:
+
+:star2:
